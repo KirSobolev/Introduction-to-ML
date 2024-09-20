@@ -1,0 +1,9 @@
+,Metric,Basic Model,StandardScaler + LogisticRegression,StandardScaler + Regularization + LogisticRegression
+0,Total accuracy,0.78,0.78,0.81
+1,Macro precision,0.77,0.77,0.8
+2,Macro recall,0.75,0.75,0.78
+3,Macro F1,0.75,0.75,0.78
+4,Weighted precision,0.78,0.78,0.81
+5,Weighted recall,0.78,0.78,0.81
+6,Weighted F1,0.78,0.78,0.81
+7,ROC AUC,0.76,0.76,0.61
