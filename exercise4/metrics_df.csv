@@ -1,9 +1,9 @@
-,Unnamed: 0.1,Unnamed: 0,Metric,Basic Model,StandardScaler + Regularization + LogisticRegression,Basic SVC,"SVC, linear kernel","SVC, rbf hightuned","SVC, poly kernel","SVC, sigmoid kernel",LinearSVC,NuSVC,"NuSVC, poly kernel",RFC
-0,0,0,Total accuracy,0.78,0.81,0.82,0.78,0.85,0.83,0.69,0.88,0.85,0.83,0.88
-1,1,1,Macro precision,0.77,0.8,0.81,0.76,0.84,0.82,0.65,0.87,0.84,0.82,0.87
-2,2,2,Macro recall,0.75,0.78,0.78,0.74,0.81,0.8,0.65,0.86,0.82,0.79,0.86
-3,3,3,Macro F1,0.75,0.78,0.79,0.75,0.82,0.81,0.65,0.86,0.82,0.8,0.86
-4,4,4,Weighted precision,0.78,0.81,0.82,0.78,0.84,0.83,0.69,0.88,0.84,0.83,0.88
-5,5,5,Weighted recall,0.78,0.81,0.82,0.78,0.85,0.83,0.69,0.88,0.85,0.83,0.88
-6,6,6,Weighted F1,0.78,0.81,0.82,0.78,0.84,0.83,0.69,0.88,0.84,0.83,0.88
-7,7,7,ROC AUC,0.76,0.61,0.88,0.84,0.88,0.87,0.71,0.9339054039876844,0.8775265769914196,0.87,0.9339054039876844
+Metric,Basic Model,StandardScaler + Regularization + LogisticRegression,Basic SVC,"SVC, linear kernel","SVC, rbf hightuned","SVC, poly kernel","SVC, sigmoid kernel",LinearSVC,NuSVC,"NuSVC, poly kernel",RFC,RFC default
+Total accuracy,0.78,0.81,0.82,0.78,0.85,0.83,0.69,0.88,0.85,0.83,0.87,0.88
+Macro precision,0.77,0.8,0.81,0.76,0.84,0.82,0.65,0.87,0.84,0.82,0.86,0.87
+Macro recall,0.75,0.78,0.78,0.74,0.81,0.8,0.65,0.86,0.82,0.79,0.85,0.86
+Macro F1,0.75,0.78,0.79,0.75,0.82,0.81,0.65,0.86,0.82,0.8,0.86,0.87
+Weighted precision,0.78,0.81,0.82,0.78,0.84,0.83,0.69,0.88,0.84,0.83,0.87,0.88
+Weighted recall,0.78,0.81,0.82,0.78,0.85,0.83,0.69,0.88,0.85,0.83,0.87,0.88
+Weighted F1,0.78,0.81,0.82,0.78,0.84,0.83,0.69,0.88,0.84,0.83,0.87,0.88
+ROC AUC,0.76,0.61,0.88,0.84,0.88,0.87,0.71,0.9339054039876844,0.8775265769914196,0.87,0.8798143705226135,0.882384509238275
