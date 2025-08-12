@@ -161,4 +161,3 @@ cython_debug/
 
 128_fishing_trajs.csv
 advanced_ex/128_fishing_trajs.csv
-advanced_ex/trajectory_clustering.ipynb
